@@ -15,16 +15,19 @@
 
 
 
-
-
-
-
-
-
-
-
-
 ## Skills
 
 - Programming Languages: Java, Python
 - Tools: Git,GitHub, VS Code
+
+
+
+
+
+
+
+## Goals
+
+- Improve my programming skills
+- Learn more about software development
+- Build practical projects
