@@ -3,7 +3,7 @@
 
 - Name: Tala Hussam
 - University: [ albalqaa university ]
-- Major: Software Engineering
+- Major: Software Engineering student
 
 
 
