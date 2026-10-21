@@ -2,9 +2,7 @@
 
 ## Introduction
 
-I am a Software Engineering student interested in web development.
-
-* Name: Tala Hussam
+* I enjoy building software projects.Name: Tala Hussam
 * University: \[ albalqaa university ]
 * Major: Software Engineering student
 
