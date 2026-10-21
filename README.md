@@ -49,3 +49,19 @@
 
 GitHub: \[Talafityan](https://github.com/Talafityan)
 
+
+
+
+
+
+
+\## Education
+
+
+
+\- Bachelor’s Degree in Software Engineering
+
+\- University: \[Your University Name]
+
+\- Status: Currently studying
+
