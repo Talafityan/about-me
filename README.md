@@ -3,9 +3,9 @@
 ## Introduction
 I love learning software engineering.
 
-* Name: Tala Hussam
 
-* I enjoy building software projects.Name: Tala Hussam
+
+* Name: Tala Hussam
 
 * University: \[ albalqaa university ]
 * Major: Software Engineering student
