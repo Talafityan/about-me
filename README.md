@@ -4,10 +4,8 @@
 I love learning software engineering.
 
 
-
 * Name: Tala Hussam
-
-* University: \[ albalqaa university ]
+* University: Al-Balqa Applied University
 * Major: Software Engineering student
 
 
