@@ -4,3 +4,4 @@
 - Programming
 - Designing
 - talking
+- Learning new programming languages
